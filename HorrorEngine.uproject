@@ -5,6 +5,19 @@
 	"Description": "",
 	"Plugins": [
 		{
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+			"Name": "TwitchIntegrator",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/aab34378365e41b18115c7bf8931dd31"
+		},
+		{
+			"Name": "MeshTool",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/7289f8ad4b6c43b289affc9870db344a"
+=======
+>>>>>>> Stashed changes
 			"Name": "MeshTool",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/7289f8ad4b6c43b289affc9870db344a"
@@ -13,6 +26,10 @@
 			"Name": "TwitchIntegrator",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/aab34378365e41b18115c7bf8931dd31"
+<<<<<<< Updated upstream
+=======
+>>>>>>> 6bbbd0dc1a9ad620146afe3663cbe5ae44d17085
+>>>>>>> Stashed changes
 		}
 	]
 }
